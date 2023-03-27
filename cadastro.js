@@ -6,6 +6,4 @@ return email;
 
 function mostramensagem
 
-
-
-//adicionando funcao de mensagem
+//adicionando funcao de mensagem.
